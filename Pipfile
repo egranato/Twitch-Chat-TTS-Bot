@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 twitchio = "*"
-playsound = "*"
+playsound = "==1.2.2"
 gtts = "*"
 better-profanity = "*"
 python-decouple = "*"
